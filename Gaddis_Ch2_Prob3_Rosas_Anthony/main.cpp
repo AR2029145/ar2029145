@@ -26,6 +26,8 @@ int main(int argc, char** argv) {
     int TolTax=TolTax1+TolTax2;//State and County Tax added
     cout<<"The total sales tax on the purchase is ";
     cout<< TolTax <<endl;
+    
+    //Exit Stage Right
     //Exit Stage Right
     return 0;
 }
