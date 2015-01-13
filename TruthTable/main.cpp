@@ -64,7 +64,7 @@ int main(int argc, char** argv) {
     cout<<(X^Y?'T':'F')<<"     ";
     cout<<(X^Y^Y?'T':'F')<<"    ";
     cout<<(X^Y^X?'T':'F')<<"      ";
-    cout<<(!(X||Y)?'T':'F')<<"    ";
+    cout<<(!(X||Y)?'T':'F')<<"    ";//Left off
     cout<<endl;        
             
 
