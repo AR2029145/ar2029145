@@ -1,7 +1,7 @@
 /* 
  * File:   main.cpp
  * Author: Anthony Rosas
- * Purpose:Convert oz to tons
+ * Purpose:Metric
  *
  * Created on January 13, 2015, 10:51 AM
  */
